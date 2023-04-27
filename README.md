@@ -17,18 +17,23 @@
 
 Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open source stub builder that recovers personal information from a windows OS computer, using a tkinter GUI with multiple settings to compile your stub.
 
-
+<h3>4/27 CHANGELOG</h3>
+    
+- Fixed bad marshal data error (caused by invalid python version), now displays an error message prompting you to install python 3.9.5
+    
+- (If you are currently on a different version of python please uninstall it before installing python 3.9.5)
+    
+- Removed automatic stub file attachment to discord autospread, you may still manually link the disordcdn link
+    
 <h3>NEXT UPDATE</h3>
 
 - Fixing discord injection
-
-- Providing more customization to autospread
+    
+- More customization
 
 - Documentation
 
 - More features
-  
-- More friendly for non coders
 
 <h3>How To Use</h3>
 
