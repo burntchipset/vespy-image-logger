@@ -15,7 +15,7 @@
     THIS SOFTWARE WAS MADE FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY. THE CREATOR OF VESPY GRABBER IS NOT REPONSIBLE OF THE USAGE OF THIS SOFTWARE.
 <h3>Description</h3>
 
-Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open source stub builder that recovers personal information from a windows OS computer, using a tkinter GUI with multiple settings to compile your stub.
+Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open source stub builder that recovers personal information from a windows OS computer, using a tkinter GUI with multiple settings to compile your stub. Please star the github repo for more updates (just click the star button icon on the top right, its free and supports development).
 
 <img align="center" src='https://media.discordapp.net/attachments/1098287991807557654/1101200248044523530/image.png?width=1440&height=621'>
 <h3>4/27 CHANGELOG</h3>
