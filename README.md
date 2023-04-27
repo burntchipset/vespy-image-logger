@@ -1,8 +1,8 @@
-<img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001198184779886/pure-black-background-f82588d3.png'>
+<img align="center" src='https://cdn.discordapp.com/attachments/1098287991807557654/1101038007391367168/mylogo.ico'>
 
 # ===== Python Open Source Stub Builder =====
 
-<img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001627756998727/python_EvlOkHBWaD.png'>
+<img align="center" src='https://cdn.discordapp.com/attachments/1098287991807557654/1101037841338871838/background2.png'>
 
 <h2>Vespy Grabber 2.0</h2>
 
