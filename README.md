@@ -34,10 +34,10 @@ Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open sou
 
 You basically need a brain and python knowledge, this is the first step
 
-Download python 3.9.5
+Download [3.9.5](https://www.python.org/downloads/release/python-395/)
 
 Make sure to install pip while downloading python (in python setup)
 
-Install requirements using install.bat
+Install requirements using start.bat
 
 Setup your stub, webhook and compile
