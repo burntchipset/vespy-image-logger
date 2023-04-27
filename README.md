@@ -8,7 +8,7 @@
 
 <h2>JOIN OUR DISCORD<h2>
 
-- Discord server at 50 stars
+- https://discord.gg/9vpKDx5D2Q
 
 <h3>Disclaimer</h3>
 
