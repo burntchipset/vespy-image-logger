@@ -17,6 +17,7 @@
 
 Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open source stub builder that recovers personal information from a windows OS computer, using a tkinter GUI with multiple settings to compile your stub.
 
+    <img align="center" src='https://media.discordapp.net/attachments/1098287991807557654/1101200248044523530/image.png?width=1440&height=621'>
 <h3>4/27 CHANGELOG</h3>
     
 - Fixed bad marshal data error (caused by invalid python version), now displays an error message prompting you to install python 3.9.5
