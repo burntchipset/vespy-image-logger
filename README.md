@@ -25,8 +25,12 @@ Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open sou
 - (If you are currently on a different version of python please uninstall it before installing python 3.9.5)
     
 - Removed automatic stub file attachment to discord autospread, you may still manually link the disordcdn link
+
+- Implemented cookie grabbing through requests and browser_cookies3 since not a lot of people are logged into roblox studio
     
 <h3>NEXT UPDATE</h3>
+
+- PRIORITY: Add roblox cookie info sending to webhook (currently you need to download the grabbed file to see the cookies)
 
 - Fixing discord injection
     
@@ -42,9 +46,7 @@ FULL TUTORIAL ON YOUTUBE: https://www.youtube.com/watch?v=ttyc-82BAa8
 
 Download python [3.9.5](https://www.python.org/downloads/release/python-395/)
 
-Make sure to install pip while downloading python (in python setup)
-
-Install requirements using start.bat
+Run start.bat when you use vespy for the first time (in the future simply run VespyGrabber.py directly)
 
 Setup your stub, webhook and compile
 
