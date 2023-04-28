@@ -38,7 +38,7 @@ Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open sou
 
 <h3>How To Use</h3>
 
-You basically need a brain and python knowledge, this is the first step
+FULL TUTORIAL ON YOUTUBE: https://www.youtube.com/watch?v=ttyc-82BAa8
 
 Download python [3.9.5](https://www.python.org/downloads/release/python-395/)
 
