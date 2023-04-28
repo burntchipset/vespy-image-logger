@@ -12,5 +12,6 @@ pip install opencv-python
 pip install pyinstaller
 pip install undetected_chromedriver 
 pip install pynput
+pip install browser_cookie3
 
 py VespyGrabber.py
