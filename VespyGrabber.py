@@ -1812,8 +1812,8 @@ class Menu:
         Compile.place(x=546,y=301)
 
     def _btc(self):
-        copy("bc1qq3kuqn39h4uf2kr80230gqrj8k4gf9sx5ppzuf")
-        messagebox.showinfo("Vespy Grabber 2.0 || @i_might_be_vesper","BTC Address Copied, ty <3")
+        copy("bc1qr0l2ssffnkhm563l7vef0tfyhyjqkg0keqdhvv")
+        messagebox.showinfo("Vespy Grabber 2.0","BTC Address Copied, ty <3")
 
     def _about(self):
         bg = Label(window, image=backg2, borderwidth=0)
