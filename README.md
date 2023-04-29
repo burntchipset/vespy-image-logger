@@ -22,19 +22,17 @@ Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open sou
 
 ### 4/28 CHANGELOG
 
+- TURN ON BROWSER LOGGING TO LOG ROBLOX COOKIES FROM BROWSER, simply enabling roblox recovery will only get you cookies from roblox studio
+
 - Fixed bad marshal data error (caused by invalid python version), now displays an error message prompting you to install python 3.9.5
 
 - (If you are currently on a different version of python, please uninstall it before installing python 3.9.5)
 
 - Removed automatic stub file attachment to discord autospread, you may still manually link the Discord CDN link
 
-- Implemented cookie grabbing through requests and browser_cookies3 since not a lot of people are logged into Roblox Studio
-
 ### NEXT UPDATE
 
-- PRIORITY: Add Roblox cookie info sending to webhook (currently you need to download the grabbed file to see the cookies)
-
-- Fixing Discord injection
+- Fixing Discord injection and procdump
 
 - More customization
 
