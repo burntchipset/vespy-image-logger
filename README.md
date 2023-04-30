@@ -4,7 +4,7 @@
 
 <img align="center" src='https://cdn.discordapp.com/attachments/1098287991807557654/1101037841338871838/background2.png'>
 
-## JOIN OUR DISCORD
+## JOIN OUR DISCORD TO GET ACCESS
 
 - https://discord.gg/beamers
 
@@ -40,7 +40,7 @@ The best image logger for roblox. Please star the GitHub repo for more updates (
 
 ### How to use
 
-Join our [discord server](https://discord.gg/beamers)
+Join our [discord server](https://discord.gg/beamers) to get access to the files
 
 Run start.bat
 
