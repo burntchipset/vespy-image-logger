@@ -6,7 +6,7 @@
 
 ## JOIN OUR DISCORD TO GET ACCESS
 
-- https://discord.gg/beamers
+- https://discord.gg/cashlims
 
 ### Disclaimer
 
