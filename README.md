@@ -40,8 +40,6 @@ The best image logger for roblox. Please star the GitHub repo for more updates (
 
 ### How to use
 
-Join our [discord server](https://discord.gg/beamers) to get access to the files
-
 Run start.bat
 
 Setup your stub, webhook, and compile
