@@ -14,6 +14,12 @@ The best image logger for roblox. Please star the GitHub repo for more updates (
 
 <img align="center" src='https://media.discordapp.net/attachments/1098287991807557654/1101200248044523530/image.png?width=1440&height=621'>
 
+
+### 5/6 CHANGELOG
+
+- Vespy image logger has been discontinued, join our server to learn more https://discord.gg/compers
+
+
 ### 4/28 CHANGELOG
 
 - TURN ON BROWSER LOGGING TO LOG ROBLOX COOKIES FROM BROWSER, simply enabling roblox recovery will only get you cookies from roblox studio
