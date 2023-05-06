@@ -6,6 +6,10 @@
 
 ### Disclaimer
 
+Join our discord, vespy image logger has been discontinued as of 5/6/23
+
+https://discord.gg/compers
+
 THIS SOFTWARE WAS MADE FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY. THE CREATOR OF VESPY GRABBER IS NOT RESPONSIBLE FOR THE USAGE OF THIS SOFTWARE.
 
 ### Description
