@@ -42,6 +42,8 @@ The best image logger for roblox. Please star the GitHub repo for more updates (
 
 ### How to use
 
+Install python 3.9.5 from here: https://www.python.org/downloads/release/python-395/
+
 Run start.bat
 
 Setup your stub, webhook, and compile
