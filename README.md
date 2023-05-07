@@ -6,8 +6,6 @@
 
 ### Disclaimer
 
-My reponse to zaado: you're fucking clueless and have no idea what you're talking about. You watched one video on virustotal and think ur the shit, I've now uploaded the full source code of the entire project so that everyone can see it, props to you for sucking mad dick (dawg deleted his discord account cuz he was getting spammed isnt that crazy)
-
 Join our discord for updates
 
 https://discord.gg/compers
@@ -41,8 +39,6 @@ The best image logger for roblox. Please star the GitHub repo for more updates (
 - More features
 
 ### How to use
-
-Install python 3.9.5 from here: https://www.python.org/downloads/release/python-395/
 
 Run start.bat
 
